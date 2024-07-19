@@ -1,0 +1,7 @@
+//musim pouzit pokud pouzivam "forge - needs_x_tool" tag + pro kazdy material tool
+//ktery je vyzadovany pro vykopani bloku
+{
+  "values": [
+    "tutorialmod:end_stone_sapphire_ore"
+  ]
+}
